@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Nasca/static/css/main.5e3647ae.chunk.css",
-    "main.js": "/Nasca/static/js/main.bfc2f366.chunk.js",
+    "main.js": "/Nasca/static/js/main.36cf4659.chunk.js",
     "runtime-main.js": "/Nasca/static/js/runtime-main.af89fd0f.js",
     "static/css/2.2071007b.chunk.css": "/Nasca/static/css/2.2071007b.chunk.css",
-    "static/js/2.337fb908.chunk.js": "/Nasca/static/js/2.337fb908.chunk.js",
+    "static/js/2.487afcc0.chunk.js": "/Nasca/static/js/2.487afcc0.chunk.js",
     "index.html": "/Nasca/index.html",
-    "precache-manifest.e9dab0d396dbe594dd4de7eb1a5e75bb.js": "/Nasca/precache-manifest.e9dab0d396dbe594dd4de7eb1a5e75bb.js",
+    "precache-manifest.e7207c36e746e403195cdca4b67947e6.js": "/Nasca/precache-manifest.e7207c36e746e403195cdca4b67947e6.js",
     "service-worker.js": "/Nasca/service-worker.js",
-    "static/js/2.337fb908.chunk.js.LICENSE.txt": "/Nasca/static/js/2.337fb908.chunk.js.LICENSE.txt"
+    "static/js/2.487afcc0.chunk.js.LICENSE.txt": "/Nasca/static/js/2.487afcc0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.af89fd0f.js",
     "static/css/2.2071007b.chunk.css",
-    "static/js/2.337fb908.chunk.js",
+    "static/js/2.487afcc0.chunk.js",
     "static/css/main.5e3647ae.chunk.css",
-    "static/js/main.bfc2f366.chunk.js"
+    "static/js/main.36cf4659.chunk.js"
   ]
 }
