@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91b6cd123596e1f90bd40fce4e1d4bf1",
+    "revision": "27f15f0341435b6b4106af632d4cc2ad",
     "url": "/UttamUk/Nasca/index.html"
   },
   {
-    "revision": "99a8a2442cbf7c5e3b7d",
-    "url": "/UttamUk/Nasca/static/css/2.5dbdccff.chunk.css"
+    "revision": "db6e17ecd5670dc13daf",
+    "url": "/UttamUk/Nasca/static/css/2.2071007b.chunk.css"
   },
   {
-    "revision": "3ea7e5bf0e49d1aba486",
-    "url": "/UttamUk/Nasca/static/css/main.d1b05096.chunk.css"
+    "revision": "08eef1cc27cbf1f7b66a",
+    "url": "/UttamUk/Nasca/static/css/main.5e3647ae.chunk.css"
   },
   {
-    "revision": "99a8a2442cbf7c5e3b7d",
+    "revision": "db6e17ecd5670dc13daf",
     "url": "/UttamUk/Nasca/static/js/2.76c9952e.chunk.js"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/UttamUk/Nasca/static/js/2.76c9952e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3ea7e5bf0e49d1aba486",
+    "revision": "08eef1cc27cbf1f7b66a",
     "url": "/UttamUk/Nasca/static/js/main.903e9f2f.chunk.js"
   },
   {
