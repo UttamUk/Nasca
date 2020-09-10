@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/UttamUk/Nasca/static/css/main.d1b05096.chunk.css",
+    "main.js": "/UttamUk/Nasca/static/js/main.903e9f2f.chunk.js",
+    "main.js.map": "/UttamUk/Nasca/static/js/main.903e9f2f.chunk.js.map",
+    "runtime-main.js": "/UttamUk/Nasca/static/js/runtime-main.193459a8.js",
+    "runtime-main.js.map": "/UttamUk/Nasca/static/js/runtime-main.193459a8.js.map",
+    "static/css/2.5dbdccff.chunk.css": "/UttamUk/Nasca/static/css/2.5dbdccff.chunk.css",
+    "static/js/2.76c9952e.chunk.js": "/UttamUk/Nasca/static/js/2.76c9952e.chunk.js",
+    "static/js/2.76c9952e.chunk.js.map": "/UttamUk/Nasca/static/js/2.76c9952e.chunk.js.map",
+    "index.html": "/UttamUk/Nasca/index.html",
+    "precache-manifest.e4fb65b0b6659430b27b68e110ae0a70.js": "/UttamUk/Nasca/precache-manifest.e4fb65b0b6659430b27b68e110ae0a70.js",
+    "service-worker.js": "/UttamUk/Nasca/service-worker.js",
+    "static/css/2.5dbdccff.chunk.css.map": "/UttamUk/Nasca/static/css/2.5dbdccff.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/UttamUk/Nasca/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.76c9952e.chunk.js.LICENSE.txt": "/UttamUk/Nasca/static/js/2.76c9952e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.193459a8.js",
+    "static/css/2.5dbdccff.chunk.css",
+    "static/js/2.76c9952e.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.903e9f2f.chunk.js"
+  ]
+}
