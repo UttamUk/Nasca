@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/UttamUk/Nasca/static/css/main.5e3647ae.chunk.css",
-    "main.js": "/UttamUk/Nasca/static/js/main.903e9f2f.chunk.js",
-    "runtime-main.js": "/UttamUk/Nasca/static/js/runtime-main.193459a8.js",
-    "static/css/2.2071007b.chunk.css": "/UttamUk/Nasca/static/css/2.2071007b.chunk.css",
-    "static/js/2.76c9952e.chunk.js": "/UttamUk/Nasca/static/js/2.76c9952e.chunk.js",
-    "index.html": "/UttamUk/Nasca/index.html",
-    "precache-manifest.8a9434ee5202fae6ec373351615163a6.js": "/UttamUk/Nasca/precache-manifest.8a9434ee5202fae6ec373351615163a6.js",
-    "service-worker.js": "/UttamUk/Nasca/service-worker.js",
-    "static/js/2.76c9952e.chunk.js.LICENSE.txt": "/UttamUk/Nasca/static/js/2.76c9952e.chunk.js.LICENSE.txt"
+    "main.css": "/Nasca/static/css/main.5e3647ae.chunk.css",
+    "main.js": "/Nasca/static/js/main.bfc2f366.chunk.js",
+    "runtime-main.js": "/Nasca/static/js/runtime-main.af89fd0f.js",
+    "static/css/2.2071007b.chunk.css": "/Nasca/static/css/2.2071007b.chunk.css",
+    "static/js/2.337fb908.chunk.js": "/Nasca/static/js/2.337fb908.chunk.js",
+    "index.html": "/Nasca/index.html",
+    "precache-manifest.e9dab0d396dbe594dd4de7eb1a5e75bb.js": "/Nasca/precache-manifest.e9dab0d396dbe594dd4de7eb1a5e75bb.js",
+    "service-worker.js": "/Nasca/service-worker.js",
+    "static/js/2.337fb908.chunk.js.LICENSE.txt": "/Nasca/static/js/2.337fb908.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.193459a8.js",
+    "static/js/runtime-main.af89fd0f.js",
     "static/css/2.2071007b.chunk.css",
-    "static/js/2.76c9952e.chunk.js",
+    "static/js/2.337fb908.chunk.js",
     "static/css/main.5e3647ae.chunk.css",
-    "static/js/main.903e9f2f.chunk.js"
+    "static/js/main.bfc2f366.chunk.js"
   ]
 }
